@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently exploring Unity and game development <br>🌱 I’m currently learning Web development frameworks like the MERN Stack <br>📫 How to reach me **rouzhen.internships@gmail.com**<br>📄 Know about my experiences <br>⚡Fun fact - I am a genuine person who loves to have deep conversations with other people!
+🔭I'm currently exploring Unity and game development <br>🌱 I’m currently learning Web development frameworks like the MERN Stack and Tailwind CSS <br>📫 How to reach me **rouzhen.internships@gmail.com**<br>📄 Know about my experiences <br>⚡Fun fact - I am a genuine person who loves to have deep conversations with other people!
 
 
 ## 🌐 Socials:
